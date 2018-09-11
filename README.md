@@ -33,7 +33,7 @@
 		'antialias': pil_image.ANTIALIAS,   #added by mao
 	    }
         '''
-- step3 : 运行run.sh可以复现线上的结果（需要先下载[训练好的模型](链接: https://pan.baidu.com/s/1DEcTbu_oifw6L5eqK7JVnA) 密码: qp9k）；或者运行run_all.sh可以从头开始训练并得到预测结果。
+- step3 : 运行run.sh可以复现线上的结果（需要先下载[训练好的模型](https://pan.baidu.com/s/1DEcTbu_oifw6L5eqK7JVnA) 密码: qp9k）；或者运行run_all.sh可以从头开始训练并得到预测结果。
 
 ## 思路说明
 - 数据输入部分：
@@ -67,8 +67,8 @@
 
 ## 初赛和复赛的数据链接: 
 - [初赛part1](https://pan.baidu.com/s/1KoZcXKCCaWLWfGc5Q4gCjg), 密码: 2qdn
-- [初赛part2](链接: https://pan.baidu.com/s/1c0o7WKm-ETPcIyF6JPS3Wg),  密码: jq9a
-- [复赛](链接: https://pan.baidu.com/s/1wuA0VT7E7SBtkrvarfPCcw), 密码: vyj9
+- [初赛part2](https://pan.baidu.com/s/1c0o7WKm-ETPcIyF6JPS3Wg),  密码: jq9a
+- [复赛](https://pan.baidu.com/s/1wuA0VT7E7SBtkrvarfPCcw), 密码: vyj9
 
 ## 另
 - 初赛代码链接: [maozezhong/TIANCHI_XUELANG_AI](https://github.com/maozezhong/TIANCHI_XUELANG_AI)
